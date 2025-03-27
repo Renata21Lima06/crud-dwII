@@ -2,13 +2,17 @@
 
 Este projeto foi desenvolvido como atividade para a disciplina de **Desenvolvimento Web**.
 
+Por: 
+- Renata Ferreira Soares de Lima 2171392421012
+- Thais Ferreira de Moura 2171392421035
+
 ## 🛠 Tecnologias utilizadas
 
 - **Node.js**
 - **Express.js**
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ## 📋 Descrição
 
